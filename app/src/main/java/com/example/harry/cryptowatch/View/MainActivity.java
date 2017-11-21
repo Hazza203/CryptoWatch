@@ -1,7 +1,9 @@
-package com.example.harry.cryptowatch;
+package com.example.harry.cryptowatch.View;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.harry.cryptowatch.R;
 
 public class MainActivity extends AppCompatActivity {
 
